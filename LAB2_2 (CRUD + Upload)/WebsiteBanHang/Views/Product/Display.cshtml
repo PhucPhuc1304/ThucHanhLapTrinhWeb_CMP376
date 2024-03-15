@@ -1,0 +1,18 @@
+﻿@model WebsiteBanHang.Models.Product
+<h2>Product Details</h2>
+<div>
+    <h4>Name: @Model.Name</h4>
+    <h4>Price: @Model.Price</h4>
+    <h4>Description: @Model.Description</h4>
+    <img src="@Model.ImageUrl" alt="Product Image" width="400" height="300" />
+
+    @if (Model.ImageUrls != null && Model.ImageUrls.Count > 0)
+    {
+        foreach (var imageUrl in Model.ImageUrls)
+        {
+            <img src="@imageUrl" alt="Product Image" width="400" height="300" />
+        }
+    }
+</div>
+
+<a asp-action="Index">Back to List</a>

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<WebsiteBanHang.Models.Product>
+@{
+    var products = ViewBag.Products as IEnumerable<WebsiteBanHang.Models.Product>;
+    var categories = ViewBag.Categories as Dictionary<int, string>;
+}
+<h2>Products</h2>
+<a class="btn btn-primary" asp-action="Add">Add</a>
+
+<table class="table align-middle">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Image</th>
+            <th>Additional Images</th>
+            <th>Category Name</th>
+
+            <th>Actions</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Description</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(product.ImageUrl))
+                    {
+                        <img src="@product.ImageUrl" alt="Product Image" width="100" height="100" />
+                    }
+
+                </td>
+                <td>
+                    @if (product.ImageUrls != null && product.ImageUrls.Count > 0)
+                    {
+                        <div class="additional-images">
+                            @foreach (var imageUrl in product.ImageUrls)
+                            {
+                                <img src="@imageUrl" alt="Additional Image" width="100" height="100" />
+                            }
+                        </div>
+                    }
+                </td>
+                <td>@categories[product.CategoryId]</td>
+                <td>
+                    <a class="btn btn-secondary" asp-action="Display" asp-route-id="@product.Id">View</a> 
+                    <a class="btn btn-warning" asp-action="Update" asp-route-id="@product.Id">Edit</a> 
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+
