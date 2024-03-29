@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jtIT9pvFuxYpu7XqrLzeTVuzV0l5DpxnR+iOhbUmUyITwT1SDTRoSHxv5WFtJJWsJqgKnGMXU24BiH+Q8+7fQA==",
+  "dgSpecHash": "hwDZdwZhXsgHiQXnFGhwUKabgk96VrsRB0AoQCRUCrAH0MURUdNXSyMKOvIhWgLYzFwvOPSh3H4wohn1X83PBA==",
   "success": true,
-  "projectFilePath": "D:\\TH_LWT\\LAB2_2 (CRUD + Upload)\\WebsiteBanHang\\WebsiteBanHang.csproj",
+  "projectFilePath": "D:\\TH_LWT\\LAB2_3 (CRUD + Upload + UI)\\WebsiteBanHang\\WebsiteBanHang.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -48,3 +48,28 @@ D:\TH_LWT\LAB2_2\WebsiteBanHang\obj\Debug\net6.0\refint\WebsiteBanHang.dll
 D:\TH_LWT\LAB2_2\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.pdb
 D:\TH_LWT\LAB2_2\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.genruntimeconfig.cache
 D:\TH_LWT\LAB2_2\WebsiteBanHang\obj\Debug\net6.0\ref\WebsiteBanHang.dll
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\bin\Debug\net6.0\appsettings.Development.json
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\bin\Debug\net6.0\appsettings.json
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\bin\Debug\net6.0\WebsiteBanHang.staticwebassets.runtime.json
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\bin\Debug\net6.0\WebsiteBanHang.exe
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\bin\Debug\net6.0\WebsiteBanHang.deps.json
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\bin\Debug\net6.0\WebsiteBanHang.runtimeconfig.json
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\bin\Debug\net6.0\WebsiteBanHang.dll
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\bin\Debug\net6.0\WebsiteBanHang.pdb
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.AssemblyInfoInputs.cache
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.AssemblyInfo.cs
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.MvcApplicationPartsAssemblyInfo.cache
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.RazorAssemblyInfo.cache
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.RazorAssemblyInfo.cs
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\staticwebassets.build.json
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\staticwebassets.development.json
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\scopedcss\bundle\WebsiteBanHang.styles.css
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\scopedcss\projectbundle\WebsiteBanHang.bundle.scp.css
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.dll
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\refint\WebsiteBanHang.dll
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.pdb
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\WebsiteBanHang.genruntimeconfig.cache
+D:\TH_LWT\LAB2_3 (CRUD + Upload + UI)\WebsiteBanHang\obj\Debug\net6.0\ref\WebsiteBanHang.dll

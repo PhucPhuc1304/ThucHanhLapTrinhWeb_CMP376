@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TH_LWT\\LAB2_2 (CRUD + Upload)\\WebsiteBanHang\\WebsiteBanHang.csproj",
+      "projectUniqueName": "D:\\TH_LWT\\LAB2_3 (CRUD + Upload + UI)\\WebsiteBanHang\\WebsiteBanHang.csproj",
       "projectName": "WebsiteBanHang",
-      "projectPath": "D:\\TH_LWT\\LAB2_2 (CRUD + Upload)\\WebsiteBanHang\\WebsiteBanHang.csproj",
+      "projectPath": "D:\\TH_LWT\\LAB2_3 (CRUD + Upload + UI)\\WebsiteBanHang\\WebsiteBanHang.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\TH_LWT\\LAB2_2 (CRUD + Upload)\\WebsiteBanHang\\obj\\",
+      "outputPath": "D:\\TH_LWT\\LAB2_3 (CRUD + Upload + UI)\\WebsiteBanHang\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.419\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.420\\RuntimeIdentifierGraph.json"
       }
     }
   }

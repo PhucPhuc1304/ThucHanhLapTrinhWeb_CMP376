@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Lab3.Models.Product>
+<h2>Products</h2>
+<div>
+    <a asp-action="Add" class="btn btn-primary">Add Product</a>
+</div>
+<table class="table align-middle">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Category</th>
+            <th>Image</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Description</td>
+                <td>@(product.Category != null ? product.Category.Name : "No Category")</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(product.ImageUrl))
+                    {
+                        <img src="@product.ImageUrl" alt="Product Image" style="max-width: 50px;" />
+                    }
+                    else{
+                        <a>No images</a>
+                    }
+                </td>
+                <td width="300px">
+                    <a asp-action="Display" asp-route-id="@product.Id" class="btn btn-info">View</a> |
+                    <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-success">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
