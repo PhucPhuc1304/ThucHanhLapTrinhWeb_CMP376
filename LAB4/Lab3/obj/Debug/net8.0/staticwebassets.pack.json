@@ -1,267 +1,303 @@
 {
   "Files": [
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab3.bundle.scp.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab3.bundle.scp.css",
       "PackagePath": "staticwebassets\\Lab3.bundle.scp.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\css\\site.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\favicon.ico",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\images\\116d6073-9486-4d9a-a3e1-81e3fb62f191.jpg",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\images\\116d6073-9486-4d9a-a3e1-81e3fb62f191.jpg",
       "PackagePath": "staticwebassets\\images\\116d6073-9486-4d9a-a3e1-81e3fb62f191.jpg"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\images\\CUỘC THI PROCON HUTECH 2024.png",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\images\\11_pixian_ai.png",
+      "PackagePath": "staticwebassets\\images\\11_pixian_ai.png"
+    },
+    {
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\images\\CUỘC THI PROCON HUTECH 2024.png",
       "PackagePath": "staticwebassets\\images\\CUỘC THI PROCON HUTECH 2024.png"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\images\\Untitled.png",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\images\\Untitled.png",
       "PackagePath": "staticwebassets\\images\\Untitled.png"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\images\\z5260008922167_487d6968df15676857e0b09a2765ff2d.jpg",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\images\\z5260008922167_487d6968df15676857e0b09a2765ff2d.jpg",
       "PackagePath": "staticwebassets\\images\\z5260008922167_487d6968df15676857e0b09a2765ff2d.jpg"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\images\\Đắc_nhân_tâm.jpg",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\images\\Đắc_nhân_tâm.jpg",
       "PackagePath": "staticwebassets\\images\\Đắc_nhân_tâm.jpg"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\js\\site.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\TH_LWT\\LAB3 - Copy\\Lab3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\TH_LWT\\LAB4\\Lab3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
