@@ -1,0 +1,6 @@
+@LAB6_HostAddress = http://localhost:5147
+
+GET {{LAB6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

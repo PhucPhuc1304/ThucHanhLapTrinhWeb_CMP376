@@ -1,0 +1,22 @@
+﻿@model Lab3.Models.OrderDetail
+
+@{
+    ViewData["Title"] = "Order Detail";
+}
+
+<h1>Order Detail</h1>
+
+<div>
+    <dl>
+        <dt>Order Detail ID:</dt>
+        <dd>@Model.Id</dd>
+        <dt>Order ID:</dt>
+        <dd>@Model.OrderId</dd>
+        <dt>Product ID:</dt>
+        <dd>@Model.ProductId</dd>
+        <dt>Quantity:</dt>
+        <dd>@Model.Quantity</dd>
+        <dt>Price:</dt>
+        <dd>@Model.Price</dd>
+    </dl>
+</div>

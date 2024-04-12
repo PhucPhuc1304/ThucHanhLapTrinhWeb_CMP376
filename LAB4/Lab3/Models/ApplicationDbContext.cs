@@ -15,5 +15,7 @@ namespace Lab3.Models
         {
             get; set;
         }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderDetail> OrderDetails { get; set; }
     }
 }
